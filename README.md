@@ -1,4 +1,4 @@
 ### Welcome to my Github page! 👋
 
-### 🌱 I’m currently learning -► CSS, HTML, Java
-### 🔭 I’m currently working on my "CSS_TEMPLATES" Repository! 
+### 🌱 I’m currently learning -► CSS, SCSS, HTML, JS, React, PHP(, React) 
+### 🔭 I’m currently working on my @Frontend-Development!
