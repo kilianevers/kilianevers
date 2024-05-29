@@ -1,4 +1,9 @@
 ### Welcome to my Github page! 👋
 
-### 🌱 I’m currently learning -► CSS, SCSS, HTML, JS, React, PHP(, React) 
-### 🔭 I’m currently working on my @Frontend-Development!
+```java
+if (xavier.isAngry) {
+         System.shutdown();
+} else {
+         System.out.prntln("Sorry pookie, I made a mistake here.");
+}
+```
